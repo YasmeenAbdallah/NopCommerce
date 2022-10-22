@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net6.0\Nop.Plugin.Widgets.AccessiBe.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net6.0\Nop.Plugin.Widgets.AccessiBe.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net6.0\Nop.Plugin.Widgets.AccessiBe.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net6.0\Nop.Plugin.Widgets.AccessiBe.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.AccessiBe\obj\Debug\net6.0\Nop.Plugin.Widgets.AccessiBe.csproj.CoreCompileInputs.cache

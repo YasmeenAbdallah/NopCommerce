@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net6.0\Nop.Plugin.Widgets.GoogleAnalytics.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net6.0\Nop.Plugin.Widgets.GoogleAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net6.0\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net6.0\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net6.0\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CoreCompileInputs.cache

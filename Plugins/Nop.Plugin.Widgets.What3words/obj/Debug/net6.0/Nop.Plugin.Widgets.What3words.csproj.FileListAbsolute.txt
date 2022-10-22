@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.What3words\obj\Debug\net6.0\Nop.Plugin.Widgets.What3words.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.What3words\obj\Debug\net6.0\Nop.Plugin.Widgets.What3words.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.What3words\obj\Debug\net6.0\Nop.Plugin.Widgets.What3words.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.What3words\obj\Debug\net6.0\Nop.Plugin.Widgets.What3words.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.What3words\obj\Debug\net6.0\Nop.Plugin.Widgets.What3words.csproj.CoreCompileInputs.cache

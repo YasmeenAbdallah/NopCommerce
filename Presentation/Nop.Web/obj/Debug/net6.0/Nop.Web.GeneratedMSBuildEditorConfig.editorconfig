@@ -1,0 +1,2952 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Nop.Web
+build_property.RootNamespace = Nop.Web
+build_property.ProjectDir = D:\NopCommerceDemo\nopCommerce\src\Presentation\Nop.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\NopCommerceDemo\nopCommerce\src\Presentation\Nop.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ActivityLog/ActivityLogs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWN0aXZpdHlMb2dcQWN0aXZpdHlMb2dzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ActivityLog/ActivityTypes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWN0aXZpdHlMb2dcQWN0aXZpdHlUeXBlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/AddressAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkcmVzc0F0dHJpYnV0ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/AddressAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkcmVzc0F0dHJpYnV0ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/AddressAttribute/ListBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkcmVzc0F0dHJpYnV0ZVxMaXN0QmxvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/AddressAttribute/ValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkcmVzc0F0dHJpYnV0ZVxWYWx1ZUNyZWF0ZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/AddressAttribute/ValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkcmVzc0F0dHJpYnV0ZVxWYWx1ZUVkaXRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/AddressAttribute/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkcmVzc0F0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/AddressAttribute/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkcmVzc0F0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGUuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/AddressAttribute/_CreateOrUpdate.Values.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkcmVzc0F0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGUuVmFsdWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/AddressAttribute/_CreateOrUpdateValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRkcmVzc0F0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGVWYWx1ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Affiliate/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWZmaWxpYXRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Affiliate/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWZmaWxpYXRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Affiliate/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWZmaWxpYXRlXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Affiliate/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWZmaWxpYXRlXF9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Affiliate/_CreateOrUpdate.Customers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWZmaWxpYXRlXF9DcmVhdGVPclVwZGF0ZS5DdXN0b21lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Affiliate/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWZmaWxpYXRlXF9DcmVhdGVPclVwZGF0ZS5JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Affiliate/_CreateOrUpdate.Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWZmaWxpYXRlXF9DcmVhdGVPclVwZGF0ZS5PcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Authentication/ExternalMethods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aGVudGljYXRpb25cRXh0ZXJuYWxNZXRob2RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Authentication/MultiFactorMethods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aGVudGljYXRpb25cTXVsdGlGYWN0b3JNZXRob2RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Blog/BlogComments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xCbG9nQ29tbWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Blog/BlogPostCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xCbG9nUG9zdENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Blog/BlogPostEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xCbG9nUG9zdEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Blog/BlogPosts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xCbG9nUG9zdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Blog/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Blog/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xfQ3JlYXRlT3JVcGRhdGUuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Blog/_CreateOrUpdate.Seo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xfQ3JlYXRlT3JVcGRhdGUuU2VvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Campaign/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2FtcGFpZ25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Campaign/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2FtcGFpZ25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Campaign/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2FtcGFpZ25cTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Campaign/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2FtcGFpZ25cX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/_CreateOrUpdate.Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcX0NyZWF0ZU9yVXBkYXRlLkRpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcX0NyZWF0ZU9yVXBkYXRlLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/_CreateOrUpdate.Mappings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcX0NyZWF0ZU9yVXBkYXRlLk1hcHBpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/_CreateOrUpdate.Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcX0NyZWF0ZU9yVXBkYXRlLlByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Category/_CreateOrUpdate.Seo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcX0NyZWF0ZU9yVXBkYXRlLlNlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/ValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcVmFsdWVDcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/ValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcVmFsdWVFZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/_CreateOrUpdate.Condition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcX0NyZWF0ZU9yVXBkYXRlLkNvbmRpdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcX0NyZWF0ZU9yVXBkYXRlLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/_CreateOrUpdate.Values.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcX0NyZWF0ZU9yVXBkYXRlLlZhbHVlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CheckoutAttribute/_CreateOrUpdateValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2hlY2tvdXRBdHRyaWJ1dGVcX0NyZWF0ZU9yVXBkYXRlVmFsdWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/Maintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXE1haW50ZW5hbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/SeNames.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXFNlTmFtZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/SystemInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXFN5c3RlbUluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/Warnings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXFdhcm5pbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/_Maintenance.DBBackups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXF9NYWludGVuYW5jZS5EQkJhY2t1cHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/_Maintenance.DeleteAbandonedCarts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXF9NYWludGVuYW5jZS5EZWxldGVBYmFuZG9uZWRDYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/_Maintenance.DeleteAlreadySentQueuedEmails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXF9NYWludGVuYW5jZS5EZWxldGVBbHJlYWR5U2VudFF1ZXVlZEVtYWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/_Maintenance.DeleteFiles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXF9NYWludGVuYW5jZS5EZWxldGVGaWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/_Maintenance.DeleteGuests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXF9NYWludGVuYW5jZS5EZWxldGVHdWVzdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Common/_Maintenance.ReindexDatabaseTables.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbW9uXF9NYWludGVuYW5jZS5SZWluZGV4RGF0YWJhc2VUYWJsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Country/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291bnRyeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Country/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291bnRyeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Country/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291bnRyeVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Country/StateCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291bnRyeVxTdGF0ZUNyZWF0ZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Country/StateEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291bnRyeVxTdGF0ZUVkaXRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Country/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291bnRyeVxfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Country/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291bnRyeVxfQ3JlYXRlT3JVcGRhdGUuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Country/_CreateOrUpdate.States.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291bnRyeVxfQ3JlYXRlT3JVcGRhdGUuU3RhdGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Country/_CreateOrUpdateState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ291bnRyeVxfQ3JlYXRlT3JVcGRhdGVTdGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Currency/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VycmVuY3lcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Currency/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VycmVuY3lcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Currency/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VycmVuY3lcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Currency/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VycmVuY3lcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJBdHRyaWJ1dGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJBdHRyaWJ1dGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerAttribute/ListBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJBdHRyaWJ1dGVcTGlzdEJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerAttribute/ValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJBdHRyaWJ1dGVcVmFsdWVDcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerAttribute/ValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJBdHRyaWJ1dGVcVmFsdWVFZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerAttribute/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJBdHRyaWJ1dGVcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerAttribute/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJBdHRyaWJ1dGVcX0NyZWF0ZU9yVXBkYXRlLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerAttribute/_CreateOrUpdate.Values.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJBdHRyaWJ1dGVcX0NyZWF0ZU9yVXBkYXRlLlZhbHVlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerAttribute/_CreateOrUpdateValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJBdHRyaWJ1dGVcX0NyZWF0ZU9yVXBkYXRlVmFsdWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerRole/AssociateProductToCustomerRolePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJSb2xlXEFzc29jaWF0ZVByb2R1Y3RUb0N1c3RvbWVyUm9sZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerRole/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJSb2xlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerRole/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJSb2xlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerRole/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJSb2xlXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/CustomerRole/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJSb2xlXF9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/AddressCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcQWRkcmVzc0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/AddressEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcQWRkcmVzc0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/GdprLog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcR2RwckxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdate.ActivityLog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlLkFjdGl2aXR5TG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdate.Addresses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlLkFkZHJlc3Nlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdate.BackInStockSubscriptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlLkJhY2tJblN0b2NrU3Vic2NyaXB0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdate.CurrentShoppingCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlLkN1cnJlbnRTaG9wcGluZ0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdate.Impersonate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlLkltcGVyc29uYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdate.Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlLk9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdate.RewardPoints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlLlJld2FyZFBvaW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CreateOrUpdateAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0NyZWF0ZU9yVXBkYXRlQWRkcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Customer/_CustomerAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ3VzdG9tZXJcX0N1c3RvbWVyQXR0cmlidXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/CategoryAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcQ2F0ZWdvcnlBZGRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/ManufacturerAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcTWFudWZhY3R1cmVyQWRkUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/_CreateOrUpdate.AppliedToCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcX0NyZWF0ZU9yVXBkYXRlLkFwcGxpZWRUb0NhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/_CreateOrUpdate.AppliedToManufacturers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcX0NyZWF0ZU9yVXBkYXRlLkFwcGxpZWRUb01hbnVmYWN0dXJlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/_CreateOrUpdate.AppliedToProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcX0NyZWF0ZU9yVXBkYXRlLkFwcGxpZWRUb1Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/_CreateOrUpdate.History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcX0NyZWF0ZU9yVXBkYXRlLkhpc3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcX0NyZWF0ZU9yVXBkYXRlLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Discount/_CreateOrUpdate.Requirements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlzY291bnRcX0NyZWF0ZU9yVXBkYXRlLlJlcXVpcmVtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/EmailAccount/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRW1haWxBY2NvdW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/EmailAccount/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRW1haWxBY2NvdW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/EmailAccount/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRW1haWxBY2NvdW50XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/EmailAccount/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRW1haWxBY2NvdW50XF9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Forum/CreateForum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9ydW1cQ3JlYXRlRm9ydW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Forum/CreateForumGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9ydW1cQ3JlYXRlRm9ydW1Hcm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Forum/EditForum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9ydW1cRWRpdEZvcnVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Forum/EditForumGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9ydW1cRWRpdEZvcnVtR3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Forum/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9ydW1cTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Forum/_CreateOrUpdateForum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9ydW1cX0NyZWF0ZU9yVXBkYXRlRm9ydW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Forum/_CreateOrUpdateForumGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRm9ydW1cX0NyZWF0ZU9yVXBkYXRlRm9ydW1Hcm91cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/GiftCard/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2lmdENhcmRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/GiftCard/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2lmdENhcmRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/GiftCard/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2lmdENhcmRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/GiftCard/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2lmdENhcmRcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/GiftCard/_CreateOrUpdate.History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2lmdENhcmRcX0NyZWF0ZU9yVXBkYXRlLkhpc3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/GiftCard/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2lmdENhcmRcX0NyZWF0ZU9yVXBkYXRlLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/_BestsellersBriefReportByAmount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfQmVzdHNlbGxlcnNCcmllZlJlcG9ydEJ5QW1vdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/_BestsellersBriefReportByQuantity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfQmVzdHNlbGxlcnNCcmllZlJlcG9ydEJ5UXVhbnRpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/_ConfigurationSteps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfQ29uZmlndXJhdGlvblN0ZXBzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/_CustomerStatistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfQ3VzdG9tZXJTdGF0aXN0aWNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/_LatestOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfTGF0ZXN0T3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/_OrderAverageReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfT3JkZXJBdmVyYWdlUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/_OrderIncompleteReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfT3JkZXJJbmNvbXBsZXRlUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/_OrderStatistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfT3JkZXJTdGF0aXN0aWNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Home/_PopularSearchTermsReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfUG9wdWxhclNlYXJjaFRlcm1zUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Language/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFuZ3VhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Language/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFuZ3VhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Language/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFuZ3VhZ2VcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Language/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFuZ3VhZ2VcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Language/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFuZ3VhZ2VcX0NyZWF0ZU9yVXBkYXRlLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Language/_CreateOrUpdate.Resources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTGFuZ3VhZ2VcX0NyZWF0ZU9yVXBkYXRlLlJlc291cmNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Log/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9nXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Log/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9nXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/ProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXFByb2R1Y3RBZGRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXF9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/_CreateOrUpdate.Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXF9DcmVhdGVPclVwZGF0ZS5EaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXF9DcmVhdGVPclVwZGF0ZS5JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/_CreateOrUpdate.Mappings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXF9DcmVhdGVPclVwZGF0ZS5NYXBwaW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/_CreateOrUpdate.Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXF9DcmVhdGVPclVwZGF0ZS5Qcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Manufacturer/_CreateOrUpdate.Seo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFudWZhY3R1cmVyXF9DcmVhdGVPclVwZGF0ZS5TZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Measure/Dimensions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVhc3VyZVxEaW1lbnNpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Measure/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVhc3VyZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Measure/Weights.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVhc3VyZVxXZWlnaHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/MessageTemplate/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVzc2FnZVRlbXBsYXRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/MessageTemplate/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVzc2FnZVRlbXBsYXRlXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/MessageTemplate/TestTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVzc2FnZVRlbXBsYXRlXFRlc3RUZW1wbGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/MessageTemplate/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVzc2FnZVRlbXBsYXRlXF9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/NewsLetterSubscription/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c0xldHRlclN1YnNjcmlwdGlvblxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/News/NewsComments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xOZXdzQ29tbWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/News/NewsItemCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xOZXdzSXRlbUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/News/NewsItemEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xOZXdzSXRlbUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/News/NewsItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xOZXdzSXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/News/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/News/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xfQ3JlYXRlT3JVcGRhdGUuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/News/_CreateOrUpdate.Seo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmV3c1xfQ3JlYXRlT3JVcGRhdGUuU2VvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/OnlineCustomer/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT25saW5lQ3VzdG9tZXJcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/AddProductToOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcQWRkUHJvZHVjdFRvT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/AddProductToOrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcQWRkUHJvZHVjdFRvT3JkZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/AddressEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcQWRkcmVzc0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/AddShipment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcQWRkU2hpcG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/PartiallyRefundOrderPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcUGFydGlhbGx5UmVmdW5kT3JkZXJQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/ShipmentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcU2hpcG1lbnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/ShipmentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcU2hpcG1lbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/UploadLicenseFilePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcVXBsb2FkTGljZW5zZUZpbGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/_CreateOrUpdateAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcX0NyZWF0ZU9yVXBkYXRlQWRkcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/_OrderDetails.BillingShipping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcX09yZGVyRGV0YWlscy5CaWxsaW5nU2hpcHBpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/_OrderDetails.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcX09yZGVyRGV0YWlscy5JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/_OrderDetails.Notes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcX09yZGVyRGV0YWlscy5Ob3Rlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/_OrderDetails.Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcX09yZGVyRGV0YWlscy5Qcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/_ProductAddAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcX1Byb2R1Y3RBZGRBdHRyaWJ1dGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/_ProductAddGiftCardInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcX1Byb2R1Y3RBZGRHaWZ0Q2FyZEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Order/_ProductAddRentalInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3JkZXJcX1Byb2R1Y3RBZGRSZW50YWxJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Payment/MethodRestrictions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGF5bWVudFxNZXRob2RSZXN0cmljdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Payment/Methods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGF5bWVudFxNZXRob2RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Plugin/EditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGx1Z2luXEVkaXRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Plugin/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGx1Z2luXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Plugin/OfficialFeed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGx1Z2luXE9mZmljaWFsRmVlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Plugin/_CreateOrUpdatePlugin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGx1Z2luXF9DcmVhdGVPclVwZGF0ZVBsdWdpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Poll/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9sbFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Poll/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9sbFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Poll/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9sbFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Poll/_CreateOrUpdate.Answers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9sbFxfQ3JlYXRlT3JVcGRhdGUuQW5zd2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Poll/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9sbFxfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Poll/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUG9sbFxfQ3JlYXRlT3JVcGRhdGUuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/PredefinedProductAttributeValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxQcmVkZWZpbmVkUHJvZHVjdEF0dHJpYnV0ZVZhbHVlQ3JlYXRlUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/PredefinedProductAttributeValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxQcmVkZWZpbmVkUHJvZHVjdEF0dHJpYnV0ZVZhbHVlRWRpdFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGUuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/_CreateOrUpdate.PredefinedValues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGUuUHJlZGVmaW5lZFZhbHVlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/_CreateOrUpdate.UsedByProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGUuVXNlZEJ5UHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductAttribute/_CreateOrUpdatePredefinedProductAttributeValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdEF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGVQcmVkZWZpbmVkUHJvZHVjdEF0dHJpYnV0ZVZhbHVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductReview/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFJldmlld1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductReview/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFJldmlld1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductReview/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFJldmlld1xfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ProductReview/_ProductReviewReviewTypeMappingList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFJldmlld1xfUHJvZHVjdFJldmlld1Jldmlld1R5cGVNYXBwaW5nTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/AssociatedProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxBc3NvY2lhdGVkUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/AssociateProductToAttributeValuePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxBc3NvY2lhdGVQcm9kdWN0VG9BdHRyaWJ1dGVWYWx1ZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/CrossSellProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcm9zc1NlbGxQcm9kdWN0QWRkUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/EditProductTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0UHJvZHVjdFRhZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/ProductAttributeCombinationCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0QXR0cmlidXRlQ29tYmluYXRpb25DcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/ProductAttributeCombinationEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0QXR0cmlidXRlQ29tYmluYXRpb25FZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/ProductAttributeCombinationGeneratePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0QXR0cmlidXRlQ29tYmluYXRpb25HZW5lcmF0ZVBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/ProductAttributeMappingCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0QXR0cmlidXRlTWFwcGluZ0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/ProductAttributeMappingEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0QXR0cmlidXRlTWFwcGluZ0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/ProductAttributeValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0QXR0cmlidXRlVmFsdWVDcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/ProductAttributeValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0QXR0cmlidXRlVmFsdWVFZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/ProductSpecAttributeAddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0U3BlY0F0dHJpYnV0ZUFkZE9yRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/ProductTags.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0VGFncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/RelatedProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxSZWxhdGVkUHJvZHVjdEFkZFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/RequiredProductAddPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxSZXF1aXJlZFByb2R1Y3RBZGRQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/TierPriceCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxUaWVyUHJpY2VDcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/TierPriceEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxUaWVyUHJpY2VFZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.CrossSellsProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuQ3Jvc3NTZWxsc1Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.DownloadableProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuRG93bmxvYWRhYmxlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.GiftCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuR2lmdENhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Inventory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuSW52ZW50b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Multimedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuTXVsdGltZWRpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Multimedia.Pictures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuTXVsdGltZWRpYS5QaWN0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Multimedia.Videos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuTXVsdGltZWRpYS5WaWRlb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Prices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuUHJpY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.ProductAttributes.Combinations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuUHJvZHVjdEF0dHJpYnV0ZXMuQ29tYmluYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.ProductAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuUHJvZHVjdEF0dHJpYnV0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.ProductAttributes.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuUHJvZHVjdEF0dHJpYnV0ZXMuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.PurchasedWithOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuUHVyY2hhc2VkV2l0aE9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Recurring.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuUmVjdXJyaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.RelatedProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuUmVsYXRlZFByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Rental.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuUmVudGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Seo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuU2VvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.Shipping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuU2hpcHBpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.SpecificationAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdate.StockQuantityHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGUuU3RvY2tRdWFudGl0eUhpc3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdateProductAttributeCombination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGVQcm9kdWN0QXR0cmlidXRlQ29tYmluYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdateProductAttributeMapping.Condition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGVQcm9kdWN0QXR0cmlidXRlTWFwcGluZy5Db25kaXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdateProductAttributeMapping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGVQcm9kdWN0QXR0cmlidXRlTWFwcGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdateProductAttributeMapping.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGVQcm9kdWN0QXR0cmlidXRlTWFwcGluZy5JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdateProductAttributeMapping.Values.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGVQcm9kdWN0QXR0cmlidXRlTWFwcGluZy5WYWx1ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdateProductAttributeValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGVQcm9kdWN0QXR0cmlidXRlVmFsdWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdateProductTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGVQcm9kdWN0VGFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_CreateOrUpdateTierPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfQ3JlYXRlT3JVcGRhdGVUaWVyUHJpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_ProductAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfUHJvZHVjdEF0dHJpYnV0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Product/_ProductEditorSettingsModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxfUHJvZHVjdEVkaXRvclNldHRpbmdzTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/QueuedEmail/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVldWVkRW1haWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/QueuedEmail/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVldWVkRW1haWxcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/QueuedEmail/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUXVldWVkRW1haWxcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/RecurringPayment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVjdXJyaW5nUGF5bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/RecurringPayment/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVjdXJyaW5nUGF5bWVudFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/RecurringPayment/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVjdXJyaW5nUGF5bWVudFxfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/RecurringPayment/_CreateOrUpdate.History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVjdXJyaW5nUGF5bWVudFxfQ3JlYXRlT3JVcGRhdGUuSGlzdG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/RecurringPayment/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVjdXJyaW5nUGF5bWVudFxfQ3JlYXRlT3JVcGRhdGUuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Report/BestCustomersByNumberOfOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XEJlc3RDdXN0b21lcnNCeU51bWJlck9mT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Report/BestCustomersByOrderTotal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XEJlc3RDdXN0b21lcnNCeU9yZGVyVG90YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Report/Bestsellers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XEJlc3RzZWxsZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Report/CountrySales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XENvdW50cnlTYWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Report/LowStock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XExvd1N0b2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Report/NeverSold.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XE5ldmVyU29sZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Report/RegisteredCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XFJlZ2lzdGVyZWRDdXN0b21lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Report/SalesSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVwb3J0XFNhbGVzU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/ReturnRequestActionCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxSZXR1cm5SZXF1ZXN0QWN0aW9uQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/ReturnRequestActionEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxSZXR1cm5SZXF1ZXN0QWN0aW9uRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/ReturnRequestReasonCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxSZXR1cm5SZXF1ZXN0UmVhc29uQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/ReturnRequestReasonEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxSZXR1cm5SZXF1ZXN0UmVhc29uRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/_CreateOrUpdate.ReturnRequestAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxfQ3JlYXRlT3JVcGRhdGUuUmV0dXJuUmVxdWVzdEFjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/_CreateOrUpdate.ReturnRequestReason.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxfQ3JlYXRlT3JVcGRhdGUuUmV0dXJuUmVxdWVzdFJlYXNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/_ReturnRequestActions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxfUmV0dXJuUmVxdWVzdEFjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReturnRequest/_ReturnRequestReasons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV0dXJuUmVxdWVzdFxfUmV0dXJuUmVxdWVzdFJlYXNvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReviewType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV2aWV3VHlwZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReviewType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV2aWV3VHlwZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReviewType/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV2aWV3VHlwZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ReviewType/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmV2aWV3VHlwZVxfQ3JlYXRlT3JVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ScheduleTask/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2NoZWR1bGVUYXNrXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Security/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdXJpdHlcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Security/Permissions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VjdXJpdHlcUGVybWlzc2lvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/AllSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xBbGxTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/AppSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xBcHBTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/Catalog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xDYXRhbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/CreateGdprConsent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xDcmVhdGVHZHByQ29uc2VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/CustomerUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xDdXN0b21lclVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/EditGdprConsent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xFZGl0R2RwckNvbnNlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/Forum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xGb3J1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/Gdpr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xHZHByLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/GeneralCommon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xHZW5lcmFsQ29tbW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/Media.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xNZWRpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/News.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xOZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/RewardPoints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xSZXdhcmRQb2ludHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/Shipping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xTaGlwcGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/ShoppingCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xTaG9wcGluZ0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/Tax.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xUYXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/Vendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xWZW5kb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_AppSettings.AzureBlob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQXBwU2V0dGluZ3MuQXp1cmVCbG9iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_AppSettings.Cache.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQXBwU2V0dGluZ3MuQ2FjaGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_AppSettings.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQXBwU2V0dGluZ3MuQ29tbW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_AppSettings.Data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQXBwU2V0dGluZ3MuRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_AppSettings.DistributedCache.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQXBwU2V0dGluZ3MuRGlzdHJpYnV0ZWRDYWNoZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_AppSettings.Hosting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQXBwU2V0dGluZ3MuSG9zdGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_AppSettings.Installation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQXBwU2V0dGluZ3MuSW5zdGFsbGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_AppSettings.Plugin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQXBwU2V0dGluZ3MuUGx1Z2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_AppSettings.WebOptimizer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQXBwU2V0dGluZ3MuV2ViT3B0aW1pemVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Blog.Comments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQmxvZy5Db21tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Blog.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQmxvZy5Db21tb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.AdditionalSections.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5BZGRpdGlvbmFsU2VjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.CatalogPages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5DYXRhbG9nUGFnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.CompareProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5Db21wYXJlUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.ExportImport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5FeHBvcnRJbXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.Performance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5QZXJmb3JtYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.ProductFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5Qcm9kdWN0RmllbGRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.ProductPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5Qcm9kdWN0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.ProductReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5Qcm9kdWN0UmV2aWV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.ProductSorting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5Qcm9kdWN0U29ydGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5TZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.Share.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5TaGFyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.Tags.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5UYWdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Catalog.Tax.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ2F0YWxvZy5UYXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_CreateOrUpdateGdprConsent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ3JlYXRlT3JVcGRhdGVHZHByQ29uc2VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_CustomerUser.Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ3VzdG9tZXJVc2VyLkFjY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_CustomerUser.AddressFormFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ3VzdG9tZXJVc2VyLkFkZHJlc3NGb3JtRmllbGRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_CustomerUser.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ3VzdG9tZXJVc2VyLkNvbW1vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_CustomerUser.CustomerFormFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ3VzdG9tZXJVc2VyLkN1c3RvbWVyRm9ybUZpZWxkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_CustomerUser.Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ3VzdG9tZXJVc2VyLlByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_CustomerUser.Security.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfQ3VzdG9tZXJVc2VyLlNlY3VyaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Forum.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfRm9ydW0uQ29tbW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Forum.Feeds.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfRm9ydW0uRmVlZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Forum.PageSizes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfRm9ydW0uUGFnZVNpemVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Forum.Permissions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfRm9ydW0uUGVybWlzc2lvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Gdpr.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2Rwci5Db21tb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Gdpr.Consents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2Rwci5Db25zZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.AdminArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5BZG1pbkFyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.Captcha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5DYXB0Y2hhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5Db21tb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.CustomHtml.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5DdXN0b21IdG1sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.Favicon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5GYXZpY29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.FooterItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5Gb290ZXJJdGVtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.Localization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5Mb2NhbGl6YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.Minification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5NaW5pZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.Pdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5QZGYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.RobotsTxt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5Sb2JvdHNUeHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.Security.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5TZWN1cml0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.Seo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5TZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.Sitemap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5TaXRlbWFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.SocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5Tb2NpYWxNZWRpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_GeneralCommon.TopMenuItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfR2VuZXJhbENvbW1vbi5Ub3BNZW51SXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Media.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfTWVkaWEuQ29tbW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Media.OtherPages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfTWVkaWEuT3RoZXJQYWdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Media.Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfTWVkaWEuUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_News.Comments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfTmV3cy5Db21tZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_News.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfTmV3cy5Db21tb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Order.Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfT3JkZXIuQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Order.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfT3JkZXIuQ29tbW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Order.GiftCards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfT3JkZXIuR2lmdENhcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Order.OrderTotals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfT3JkZXIuT3JkZXJUb3RhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Order.PdfInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfT3JkZXIuUGRmSW52b2ljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Order.ReturnRequestSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfT3JkZXIuUmV0dXJuUmVxdWVzdFNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_RewardPoints.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfUmV3YXJkUG9pbnRzLkNvbW1vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_RewardPoints.EarningRewardPoints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfUmV3YXJkUG9pbnRzLkVhcm5pbmdSZXdhcmRQb2ludHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Shipping.Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfU2hpcHBpbmcuQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Shipping.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfU2hpcHBpbmcuQ29tbW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Shipping.Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfU2hpcHBpbmcuTm90aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Shipping.ShippingOrigin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfU2hpcHBpbmcuU2hpcHBpbmdPcmlnaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_ShoppingCart.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfU2hvcHBpbmdDYXJ0LkNvbW1vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_ShoppingCart.MiniShoppingCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfU2hvcHBpbmdDYXJ0Lk1pbmlTaG9wcGluZ0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_ShoppingCart.Wishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfU2hvcHBpbmdDYXJ0Lldpc2hsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Tax.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfVGF4LkNvbW1vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Tax.DefaultTaxAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfVGF4LkRlZmF1bHRUYXhBZGRyZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Tax.Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfVGF4LlBheW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Tax.Shipping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfVGF4LlNoaXBwaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Tax.TaxDisplaying.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfVGF4LlRheERpc3BsYXlpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Tax.VAT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfVGF4LlZBVC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Vendor.Catalog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfVmVuZG9yLkNhdGFsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Setting/_Vendor.Common.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xfVmVuZG9yLkNvbW1vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Alert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEFsZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Components/AclDisabledWarning/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWNsRGlzYWJsZWRXYXJuaW5nXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Components/AdminLanguageSelector/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5MYW5ndWFnZVNlbGVjdG9yXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Components/AdminWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5XaWRnZXRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Components/CommonStatistics/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29tbW9uU3RhdGlzdGljc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Components/MultistoreDisabledWarning/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcTXVsdGlzdG9yZURpc2FibGVkV2FybmluZ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Components/NopCommerceNews/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcTm9wQ29tbWVyY2VOZXdzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Components/SettingMode/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2V0dGluZ01vZGVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Components/StoreScopeConfiguration/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3RvcmVTY29wZUNvbmZpZ3VyYXRpb25cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbmZpcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/Address.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xBZGRyZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/Date.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xEYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/DateNullable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xEYXRlTnVsbGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/DateTime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xEYXRlVGltZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/DateTimeNullable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xEYXRlVGltZU51bGxhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/Decimal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xEZWNpbWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/DecimalNullable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xEZWNpbWFsTnVsbGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/Double.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xEb3VibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/Download.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xEb3dubG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/Int32.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xJbnQzMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/Int32Nullable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xJbnQzMk51bGxhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/MultiPicture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xNdWx0aVBpY3R1cmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/MultiSelect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xNdWx0aVNlbGVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/MultiSelectString.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xNdWx0aVNlbGVjdFN0cmluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/Picture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xQaWN0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/EditorTemplates/RichEditor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVkaXRvclRlbXBsYXRlc1xSaWNoRWRpdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXE5vdGlmaWNhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/RestartApplication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXFJlc3RhcnRBcHBsaWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXFRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/_AddressAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZGRyZXNzQXR0cmlidXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/_AdminPopupLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pblBvcHVwTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/_AdminScripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pblNjcmlwdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/_AdminTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pblRvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/_ConfigurePlugin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Db25maWd1cmVQbHVnaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/_GridLocalization.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9HcmlkTG9jYWxpemF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/_MenuItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9NZW51SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shared/_Table.Definition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9UYWJsZS5EZWZpbml0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/CreateDeliveryDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcQ3JlYXRlRGVsaXZlcnlEYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/CreateMethod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcQ3JlYXRlTWV0aG9kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/CreateProductAvailabilityRange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcQ3JlYXRlUHJvZHVjdEF2YWlsYWJpbGl0eVJhbmdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/CreateWarehouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcQ3JlYXRlV2FyZWhvdXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/DatesAndRanges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcRGF0ZXNBbmRSYW5nZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/EditDeliveryDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcRWRpdERlbGl2ZXJ5RGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/EditMethod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcRWRpdE1ldGhvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/EditProductAvailabilityRange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcRWRpdFByb2R1Y3RBdmFpbGFiaWxpdHlSYW5nZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/EditWarehouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcRWRpdFdhcmVob3VzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/Methods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcTWV0aG9kcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/PickupPointProviders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcUGlja3VwUG9pbnRQcm92aWRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/Providers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcUHJvdmlkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/Restrictions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcUmVzdHJpY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/Warehouses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcV2FyZWhvdXNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/_CreateOrUpdateDeliveryDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcX0NyZWF0ZU9yVXBkYXRlRGVsaXZlcnlEYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/_CreateOrUpdateMethod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcX0NyZWF0ZU9yVXBkYXRlTWV0aG9kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/_CreateOrUpdateProductAvailabilityRange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcX0NyZWF0ZU9yVXBkYXRlUHJvZHVjdEF2YWlsYWJpbGl0eVJhbmdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/_CreateOrUpdateWarehouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcX0NyZWF0ZU9yVXBkYXRlV2FyZWhvdXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/_DatesAndRanges.Dates.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcX0RhdGVzQW5kUmFuZ2VzLkRhdGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Shipping/_DatesAndRanges.Ranges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hpcHBpbmdcX0RhdGVzQW5kUmFuZ2VzLlJhbmdlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/ShoppingCart/CurrentCarts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hvcHBpbmdDYXJ0XEN1cnJlbnRDYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/CreateSpecificationAttribute.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxDcmVhdGVTcGVjaWZpY2F0aW9uQXR0cmlidXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/CreateSpecificationAttributeGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxDcmVhdGVTcGVjaWZpY2F0aW9uQXR0cmlidXRlR3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/EditSpecificationAttribute.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxFZGl0U3BlY2lmaWNhdGlvbkF0dHJpYnV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/EditSpecificationAttributeGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxFZGl0U3BlY2lmaWNhdGlvbkF0dHJpYnV0ZUdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/OptionCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxPcHRpb25DcmVhdGVQb3B1cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/OptionEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxPcHRpb25FZGl0UG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/_CreateOrUpdateOption.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGVPcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/_CreateOrUpdateSpecificationAttribute.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGVTcGVjaWZpY2F0aW9uQXR0cmlidXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/_CreateOrUpdateSpecificationAttribute.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGVTcGVjaWZpY2F0aW9uQXR0cmlidXRlLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/_CreateOrUpdateSpecificationAttribute.Options.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGVTcGVjaWZpY2F0aW9uQXR0cmlidXRlLk9wdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/_CreateOrUpdateSpecificationAttribute.UsedByProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGVTcGVjaWZpY2F0aW9uQXR0cmlidXRlLlVzZWRCeVByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/_CreateOrUpdateSpecificationAttributeGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGVTcGVjaWZpY2F0aW9uQXR0cmlidXRlR3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/SpecificationAttribute/_CreateOrUpdateSpecificationAttributeGroup.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3BlY2lmaWNhdGlvbkF0dHJpYnV0ZVxfQ3JlYXRlT3JVcGRhdGVTcGVjaWZpY2F0aW9uQXR0cmlidXRlR3JvdXAuSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Store/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Store/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Store/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcmVcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Store/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcmVcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Tax/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGF4XENhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Tax/Providers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGF4XFByb3ZpZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Template/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVtcGxhdGVcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Template/_List.Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVtcGxhdGVcX0xpc3QuQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Template/_List.Manufacturer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVtcGxhdGVcX0xpc3QuTWFudWZhY3R1cmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Template/_List.Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVtcGxhdGVcX0xpc3QuUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Template/_List.Topic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVtcGxhdGVcX0xpc3QuVG9waWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Topic/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9waWNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Topic/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9waWNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Topic/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9waWNcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Topic/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9waWNcX0NyZWF0ZU9yVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Topic/_CreateOrUpdate.Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9waWNcX0NyZWF0ZU9yVXBkYXRlLkRpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Topic/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9waWNcX0NyZWF0ZU9yVXBkYXRlLkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Topic/_CreateOrUpdate.Seo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9waWNcX0NyZWF0ZU9yVXBkYXRlLlNlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/VendorAttribute/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yQXR0cmlidXRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/VendorAttribute/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yQXR0cmlidXRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/VendorAttribute/ListBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yQXR0cmlidXRlXExpc3RCbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/VendorAttribute/ValueCreatePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yQXR0cmlidXRlXFZhbHVlQ3JlYXRlUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/VendorAttribute/ValueEditPopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yQXR0cmlidXRlXFZhbHVlRWRpdFBvcHVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/VendorAttribute/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yQXR0cmlidXRlXF9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/VendorAttribute/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yQXR0cmlidXRlXF9DcmVhdGVPclVwZGF0ZS5JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/VendorAttribute/_CreateOrUpdate.Values.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yQXR0cmlidXRlXF9DcmVhdGVPclVwZGF0ZS5WYWx1ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/VendorAttribute/_CreateOrUpdateValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yQXR0cmlidXRlXF9DcmVhdGVPclVwZGF0ZVZhbHVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Vendor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Vendor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Vendor/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Vendor/_CreateOrUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yXF9DcmVhdGVPclVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Vendor/_CreateOrUpdate.Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yXF9DcmVhdGVPclVwZGF0ZS5EaXNwbGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Vendor/_CreateOrUpdate.Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yXF9DcmVhdGVPclVwZGF0ZS5JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Vendor/_CreateOrUpdate.Notes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yXF9DcmVhdGVPclVwZGF0ZS5Ob3Rlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Vendor/_CreateOrUpdate.Seo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yXF9DcmVhdGVPclVwZGF0ZS5TZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Vendor/_VendorAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVmVuZG9yXF9WZW5kb3JBdHRyaWJ1dGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/Widget/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV2lkZ2V0XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/BackInStockSubscription/CustomerSubscriptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja0luU3RvY2tTdWJzY3JpcHRpb25cQ3VzdG9tZXJTdWJzY3JpcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/BackInStockSubscription/SubscribePopup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFja0luU3RvY2tTdWJzY3JpcHRpb25cU3Vic2NyaWJlUG9wdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Blog/BlogPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Blog/Components/BlogMonths/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDb21wb25lbnRzXEJsb2dNb250aHNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Blog/Components/BlogTags/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDb21wb25lbnRzXEJsb2dUYWdzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Blog/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/ActiveDiscussions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXEFjdGl2ZURpc2N1c3Npb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/Components/ForumActiveDiscussionsSmall/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXENvbXBvbmVudHNcRm9ydW1BY3RpdmVEaXNjdXNzaW9uc1NtYWxsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/Components/ForumBreadcrumb/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXENvbXBvbmVudHNcRm9ydW1CcmVhZGNydW1iXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/Components/ForumLastPost/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXENvbXBvbmVudHNcRm9ydW1MYXN0UG9zdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/CustomerForumSubscriptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXEN1c3RvbWVyRm9ydW1TdWJzY3JpcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/Forum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXEZvcnVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/ForumGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXEZvcnVtR3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/PostCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXFBvc3RDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/PostEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXFBvc3RFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/Topic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXFRvcGljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/TopicCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXFRvcGljQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/TopicEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXFRvcGljRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/TopicMove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXFRvcGljTW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/_ActiveTopics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXF9BY3RpdmVUb3BpY3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/_CreateUpdatePost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXF9DcmVhdGVVcGRhdGVQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/_CreateUpdateTopic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXF9DcmVhdGVVcGRhdGVUb3BpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/_ForumGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXF9Gb3J1bUdyb3VwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/_ForumHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXF9Gb3J1bUhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/_ForumPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXF9Gb3J1bVBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Boards/_SearchBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9hcmRzXF9TZWFyY2hCb3guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/BestSeller.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xCZXN0U2VsbGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/CategoryTemplate.ProductsInGridOrLines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xDYXRlZ29yeVRlbXBsYXRlLlByb2R1Y3RzSW5HcmlkT3JMaW5lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/ManufacturerAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xNYW51ZmFjdHVyZXJBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/ManufacturerTemplate.ProductsInGridOrLines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xNYW51ZmFjdHVyZXJUZW1wbGF0ZS5Qcm9kdWN0c0luR3JpZE9yTGluZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/NewProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xOZXdQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/ProductsByTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xQcm9kdWN0c0J5VGFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/ProductTagsAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xQcm9kdWN0VGFnc0FsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/Vendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xWZW5kb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/VendorAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xWZW5kb3JBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/_CatalogFilters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xfQ2F0YWxvZ0ZpbHRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/_CatalogProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xfQ2F0YWxvZ1Byb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/_CatalogSelectors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xfQ2F0YWxvZ1NlbGVjdG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/_FilterManufacturerBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xfRmlsdGVyTWFudWZhY3R1cmVyQm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/_FilterPriceBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xfRmlsdGVyUHJpY2VCb3guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/_FilterSpecsBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xfRmlsdGVyU3BlY3NCb3guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Catalog/_ProductsInGridOrLines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xfUHJvZHVjdHNJbkdyaWRPckxpbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/BillingAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcQmlsbGluZ0FkZHJlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/Completed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcQ29tcGxldGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcQ29uZmlybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/OnePageCheckout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcT25lUGFnZUNoZWNrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/OpcBillingAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcT3BjQmlsbGluZ0FkZHJlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/OpcConfirmOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcT3BjQ29uZmlybU9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/OpcPaymentInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcT3BjUGF5bWVudEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/OpcPaymentMethods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcT3BjUGF5bWVudE1ldGhvZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/OpcShippingAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcT3BjU2hpcHBpbmdBZGRyZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/OpcShippingMethods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcT3BjU2hpcHBpbmdNZXRob2RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/PaymentInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcUGF5bWVudEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/PaymentMethod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcUGF5bWVudE1ldGhvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/ShippingAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcU2hpcHBpbmdBZGRyZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/ShippingMethod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcU2hpcHBpbmdNZXRob2QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Checkout/_PickupPoints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcX1BpY2t1cFBvaW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Common/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXENvbnRhY3RVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Common/ContactVendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXENvbnRhY3RWZW5kb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Common/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFBhZ2VOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Common/Sitemap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFNpdGVtYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Common/StoreClosed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbW9uXFN0b3JlQ2xvc2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/AccountActivation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWNjb3VudEFjdGl2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/AddressAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkcmVzc0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/AddressEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkcmVzc0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/Addresses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkcmVzc2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/Avatar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQXZhdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/CheckGiftCardBalance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ2hlY2tHaWZ0Q2FyZEJhbGFuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/ConfigureMultiFactorAuthenticationProvider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ29uZmlndXJlTXVsdGlGYWN0b3JBdXRoZW50aWNhdGlvblByb3ZpZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/DownloadableProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRG93bmxvYWRhYmxlUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/EmailRevalidation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRW1haWxSZXZhbGlkYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/GdprTools.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcR2RwclRvb2xzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/MultiFactorAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTXVsdGlGYWN0b3JBdXRoZW50aWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/MultiFactorVerification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTXVsdGlGYWN0b3JWZXJpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/PasswordRecovery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUGFzc3dvcmRSZWNvdmVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/PasswordRecoveryConfirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUGFzc3dvcmRSZWNvdmVyeUNvbmZpcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/RegisterResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUmVnaXN0ZXJSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/UserAgreement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXNlckFncmVlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/_CheckUsernameAvailability.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX0NoZWNrVXNlcm5hbWVBdmFpbGFiaWxpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/_CustomerAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX0N1c3RvbWVyQXR0cmlidXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/_ExternalAuthentication.Errors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX0V4dGVybmFsQXV0aGVudGljYXRpb24uRXJyb3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Customer/_MultiFactorAuthenticationProviders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX011bHRpRmFjdG9yQXV0aGVudGljYXRpb25Qcm92aWRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Install/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGFsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Install/_Install.ConnectionString.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGFsbFxfSW5zdGFsbC5Db25uZWN0aW9uU3RyaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Install/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGFsbFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Newsletter/SubscriptionActivation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c2xldHRlclxTdWJzY3JpcHRpb25BY3RpdmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/News/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/News/NewsItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c1xOZXdzSXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Order/CustomerOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3VzdG9tZXJPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Order/CustomerRewardPoints.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3VzdG9tZXJSZXdhcmRQb2ludHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Order/ShipmentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcU2hpcG1lbnREZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/PrivateMessages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmF0ZU1lc3NhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/PrivateMessages/SendPM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmF0ZU1lc3NhZ2VzXFNlbmRQTS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/PrivateMessages/ViewPM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmF0ZU1lc3NhZ2VzXFZpZXdQTS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/CompareProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDb21wYXJlUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/CustomerProductReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDdXN0b21lclByb2R1Y3RSZXZpZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/ProductEmailAFriend.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RW1haWxBRnJpZW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/ProductReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0UmV2aWV3cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/ProductTemplate.Grouped.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0VGVtcGxhdGUuR3JvdXBlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/ProductTemplate.Simple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0VGVtcGxhdGUuU2ltcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/RecentlyViewedProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxSZWNlbnRseVZpZXdlZFByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_AddToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfQWRkVG9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_AddToWishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfQWRkVG9XaXNobGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_Availability.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfQXZhaWxhYmlsaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_BackInStockSubscription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfQmFja0luU3RvY2tTdWJzY3JpcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_CompareProductsButton.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfQ29tcGFyZVByb2R1Y3RzQnV0dG9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_DeliveryInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfRGVsaXZlcnlJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_Discontinued.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfRGlzY29udGludWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_DownloadSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfRG93bmxvYWRTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_GiftCardInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfR2lmdENhcmRJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_Microdata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfTWljcm9kYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdEF0dHJpYnV0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductBreadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdEJyZWFkY3J1bWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductDetailsPictures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdERldGFpbHNQaWN0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductDetailsVideos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdERldGFpbHNWaWRlb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductEmailAFriendButton.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdEVtYWlsQUZyaWVuZEJ1dHRvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductEstimateShipping.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdEVzdGltYXRlU2hpcHBpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductManufacturers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdE1hbnVmYWN0dXJlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdFByaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductReviewHelpfulness.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdFJldmlld0hlbHBmdWxuZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductReviewOverview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdFJldmlld092ZXJ2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductSpecifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdFNwZWNpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductTags.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdFRhZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ProductTierPrices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUHJvZHVjdFRpZXJQcmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_RentalInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfUmVudGFsSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_ShareButton.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfU2hhcmVCdXR0b24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Product/_SKU_Man_GTIN_Ven.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxfU0tVX01hbl9HVElOX1Zlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Profile/Components/ProfileInfo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxDb21wb25lbnRzXFByb2ZpbGVJbmZvXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Profile/Components/ProfilePosts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxDb21wb25lbnRzXFByb2ZpbGVQb3N0c1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/ReturnRequest/CustomerReturnRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuUmVxdWVzdFxDdXN0b21lclJldHVyblJlcXVlc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/ReturnRequest/ReturnRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV0dXJuUmVxdWVzdFxSZXR1cm5SZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/AdminHeaderLinks/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5IZWFkZXJMaW5rc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/BestSelling/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmVzdFNlbGxpbmdcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/BlogRssHeaderLink/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ1Jzc0hlYWRlckxpbmtcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/CategoryNavigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlOYXZpZ2F0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/CheckoutProgress/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2hlY2tvdXRQcm9ncmVzc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/CrossSellProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ3Jvc3NTZWxsUHJvZHVjdHNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/CurrencySelector/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ3VycmVuY3lTZWxlY3RvclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/CustomerNavigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ3VzdG9tZXJOYXZpZ2F0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/EuCookieLaw/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXVDb29raWVMYXdcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/ExternalMethods/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXh0ZXJuYWxNZXRob2RzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/Favicon/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmF2aWNvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/FlyoutShoppingCart/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmx5b3V0U2hvcHBpbmdDYXJ0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/Footer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/HeaderLinks/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyTGlua3NcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/HomepageBestSellers/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZXBhZ2VCZXN0U2VsbGVyc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/HomepageCategories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZXBhZ2VDYXRlZ29yaWVzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/HomepageNews/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZXBhZ2VOZXdzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/HomepagePolls/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZXBhZ2VQb2xsc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/HomepageProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSG9tZXBhZ2VQcm9kdWN0c1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/LanguageSelector/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTGFuZ3VhZ2VTZWxlY3RvclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/Logo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTG9nb1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/ManufacturerNavigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWFudWZhY3R1cmVyTmF2aWdhdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/NewsletterBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmV3c2xldHRlckJveFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/NewsRssHeaderLink/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmV3c1Jzc0hlYWRlckxpbmtcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/OrderSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcT3JkZXJTdW1tYXJ5XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/OrderTotals/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcT3JkZXJUb3RhbHNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/PollBlock/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9sbEJsb2NrXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/PopularProductTags/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9wdWxhclByb2R1Y3RUYWdzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/PrivateMessagesInbox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJpdmF0ZU1lc3NhZ2VzSW5ib3hcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/PrivateMessagesSentItems/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJpdmF0ZU1lc3NhZ2VzU2VudEl0ZW1zXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/ProductsAlsoPurchased/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvZHVjdHNBbHNvUHVyY2hhc2VkXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/RecentlyViewedProductsBlock/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVjZW50bHlWaWV3ZWRQcm9kdWN0c0Jsb2NrXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/RelatedProducts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVsYXRlZFByb2R1Y3RzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/SearchBox/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VhcmNoQm94XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/SelectedCheckoutAttributes/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VsZWN0ZWRDaGVja291dEF0dHJpYnV0ZXNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/ShoppingCartEstimateShipping/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcHBpbmdDYXJ0RXN0aW1hdGVTaGlwcGluZ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/SocialButtons/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU29jaWFsQnV0dG9uc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/StoreThemeSelector/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3RvcmVUaGVtZVNlbGVjdG9yXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/TaxTypeSelector/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGF4VHlwZVNlbGVjdG9yXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/TopicBlock/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVG9waWNCbG9ja1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/TopMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVG9wTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/VendorNavigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVmVuZG9yTmF2aWdhdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Components/Widget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV2lkZ2V0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_AddressAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZGRyZXNzQXR0cmlidXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_CheckoutAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DaGVja291dEF0dHJpYnV0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_ColumnsOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db2x1bW5zT25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_ColumnsTwo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db2x1bW5zVHdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_CreateOrUpdateAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DcmVhdGVPclVwZGF0ZUFkZHJlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_DiscountBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EaXNjb3VudEJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_EstimateShippingPopUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Fc3RpbWF0ZVNoaXBwaW5nUG9wVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_JavaScriptDisabledWarning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9KYXZhU2NyaXB0RGlzYWJsZWRXYXJuaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_OldInternetExplorerWarning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PbGRJbnRlcm5ldEV4cGxvcmVyV2FybmluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_OrderReviewData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmRlclJldmlld0RhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_Poll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qb2xsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_Print.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QcmludC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_ProductBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0Qm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_Root.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Sb290LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Shared/_Root.Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Sb290LkhlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/ShoppingCart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XENhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/ShoppingCart/EmailWishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEVtYWlsV2lzaGxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/ShoppingCart/Wishlist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XFdpc2hsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/ShoppingCart/_GiftCardBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XF9HaWZ0Q2FyZEJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Topic/TopicDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNcVG9waWNEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Vendor/ApplyVendor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXEFwcGx5VmVuZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Vendor/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/Vendor/_VendorAttributes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yXF9WZW5kb3JBdHRyaWJ1dGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Themes/DefaultClean/Views/Shared/Head.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXERlZmF1bHRDbGVhblxWaWV3c1xTaGFyZWRcSGVhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NopCommerceDemo/nopCommerce/src/Presentation/Nop.Web/Themes/DefaultClean/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXERlZmF1bHRDbGVhblxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

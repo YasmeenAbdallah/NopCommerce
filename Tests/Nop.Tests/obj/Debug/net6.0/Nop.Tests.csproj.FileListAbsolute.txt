@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Tests\Nop.Tests\obj\Debug\net6.0\Nop.Tests.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Tests\Nop.Tests\obj\Debug\net6.0\Nop.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Tests\Nop.Tests\obj\Debug\net6.0\Nop.Tests.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Tests\Nop.Tests\obj\Debug\net6.0\Nop.Tests.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Tests\Nop.Tests\obj\Debug\net6.0\Nop.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Misc.Sendinblue\obj\Debug\net6.0\Nop.Plugin.Misc.Sendinblue.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Misc.Sendinblue\obj\Debug\net6.0\Nop.Plugin.Misc.Sendinblue.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Misc.Sendinblue\obj\Debug\net6.0\Nop.Plugin.Misc.Sendinblue.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Misc.Sendinblue\obj\Debug\net6.0\Nop.Plugin.Misc.Sendinblue.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Misc.Sendinblue\obj\Debug\net6.0\Nop.Plugin.Misc.Sendinblue.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net6.0\Nop.Plugin.Widgets.FacebookPixel.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net6.0\Nop.Plugin.Widgets.FacebookPixel.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net6.0\Nop.Plugin.Widgets.FacebookPixel.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net6.0\Nop.Plugin.Widgets.FacebookPixel.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.FacebookPixel\obj\Debug\net6.0\Nop.Plugin.Widgets.FacebookPixel.csproj.CoreCompileInputs.cache

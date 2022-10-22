@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net6.0\Nop.Plugin.Tax.Avalara.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net6.0\Nop.Plugin.Tax.Avalara.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net6.0\Nop.Plugin.Tax.Avalara.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net6.0\Nop.Plugin.Tax.Avalara.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Tax.Avalara\obj\Debug\net6.0\Nop.Plugin.Tax.Avalara.csproj.CoreCompileInputs.cache

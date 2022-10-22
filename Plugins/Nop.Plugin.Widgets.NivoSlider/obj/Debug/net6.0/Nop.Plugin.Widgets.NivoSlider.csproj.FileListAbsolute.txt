@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\net6.0\Nop.Plugin.Widgets.NivoSlider.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\net6.0\Nop.Plugin.Widgets.NivoSlider.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\net6.0\Nop.Plugin.Widgets.NivoSlider.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\net6.0\Nop.Plugin.Widgets.NivoSlider.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\net6.0\Nop.Plugin.Widgets.NivoSlider.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net6.0\Nop.Plugin.Payments.Manual.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net6.0\Nop.Plugin.Payments.Manual.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net6.0\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net6.0\Nop.Plugin.Payments.Manual.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net6.0\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache

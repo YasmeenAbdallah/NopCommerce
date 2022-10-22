@@ -1,0 +1,5 @@
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net6.0\Nop.Plugin.Payments.PayPalStandard.csproj.AssemblyReference.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net6.0\Nop.Plugin.Payments.PayPalStandard.GeneratedMSBuildEditorConfig.editorconfig
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net6.0\Nop.Plugin.Payments.PayPalStandard.AssemblyInfoInputs.cache
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net6.0\Nop.Plugin.Payments.PayPalStandard.AssemblyInfo.cs
+D:\NopCommerceDemo\nopCommerce\src\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net6.0\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
